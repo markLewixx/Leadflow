@@ -1,8 +1,8 @@
-# Leadflow
+# Leaflow
 
-**LeadFlow**
+**LeaFlow**
 
-LeadFlow is a comprehensive software solution designed to streamline lead management processes for digital marketing professionals. Whether you're running campaigns for a small business or managing a large-scale marketing operation, LeadFlow offers the tools and features you need to efficiently capture, track, and nurture leads through the sales funnel.
+LeaFlow is a comprehensive software solution designed to streamline lead management processes for digital marketing professionals. Whether you're running campaigns for a small business or managing a large-scale marketing operation, LeadFlow offers the tools and features you need to efficiently capture, track, and nurture leads through the sales funnel.
 
 ### Features:
 
@@ -38,10 +38,10 @@ If you encounter any issues or have questions about LeadFlow, our dedicated supp
 
 ### About Us:
 
-LeadFlow is developed by [Your Company Name], a leading provider of digital marketing solutions for businesses of all sizes. With years of experience in the industry, we understand the challenges marketers face and are committed to delivering innovative tools to help you succeed.
+Leadlow is developed by [Your Company Name], a leading provider of digital marketing solutions for businesses of all sizes. With years of experience in the industry, we understand the challenges marketers face and are committed to delivering innovative tools to help you succeed.
 
 ### License:
 
-LeadFlow is available under a commercial license. Please refer to the license agreement provided with your purchase for terms and conditions.
+LeaFlow is available under a commercial license. Please refer to the license agreement provided with your purchase for terms and conditions.
 
-Thank you for choosing LeadFlow! We're excited to partner with you on your journey to digital marketing success.
+Thank you for choosing LeaFlow! We're excited to partner with you on your journey to digital marketing success.
